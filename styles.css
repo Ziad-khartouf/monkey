@@ -24,8 +24,9 @@ body {
     transition: background-color 0.3s;
   }
 
+
   .case:hover {
-    background-color: #f0f0f0;
+    background-color: #f1a3a3;
   }
 
   #reset {
@@ -33,4 +34,7 @@ body {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
+  }
+  body{
+    background-color: lightskyblue;
   }
